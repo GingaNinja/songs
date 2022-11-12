@@ -24,7 +24,7 @@ l1: Set an example for the believers
 *(x2)*
 
 c1:    C          G/B      Am
-l1: In speach, in life, in love,
+l1: In speech, in life, in love,
 
 c1:    F                C
 l1: in faith and in purity 
@@ -35,14 +35,15 @@ l1: in faith and in purity
 c1: C              G     C
 l1: First Timothy, four, twelve
 
+*Back to top*
 
 **Last time repeat:**
 
-c1: C     C/B   Am B/G   C
+c1: C     C/B   Am G/B   C
 l1: First Timothy, four, twelve
 
-c1: C     C/B   Am B/G   C
+c1: C     C/B   Am G/B   C
 l1: First Timothy, four, twelve
 
-c1: C     C/B   Am B/G   C
+c1: C     C/B   Am G/B   C
 l1: First Timothy, four, twelve
